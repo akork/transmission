@@ -1,0 +1,3 @@
+path to config:
+/Users/AK/Library/Application Support/transmission-daemon
+
